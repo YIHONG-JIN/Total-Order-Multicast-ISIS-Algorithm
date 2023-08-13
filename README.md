@@ -5,9 +5,6 @@
 Name: Yihong Jin
 NetID: yihongj3
 
-Name: Liyang Qian
-NetID: liyangq2
-
 **How to run:**
 
 Make sure the JVM version is openjdk version "18.0.2.1" to promise the javac.
