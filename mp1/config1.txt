@@ -1,0 +1,8 @@
+7
+node2 localhost 1232
+node3 localhost 1233
+node4 localhost 1234
+node5 localhost 1235
+node6 localhost 1236
+node7 localhost 1237
+node8 localhost 1238

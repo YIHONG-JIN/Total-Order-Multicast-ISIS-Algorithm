@@ -1,0 +1,850 @@
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES c:78 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES c:78 s:24 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES c:78 k:68 s:24 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 k:68 s:24 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 k:68 s:24 w:4 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 k:68 s:24 w:4 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 k:68 o:81 s:24 w:4 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 h:23 k:68 o:81 s:24 w:4 
+Apr 07, 2023 5:25:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 h:23 k:68 o:81 s:24 v:70 w:4 
+Apr 07, 2023 5:25:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 g:20 h:23 k:68 o:81 s:24 v:70 w:4 
+Apr 07, 2023 5:25:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 g:20 h:23 k:68 o:81 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:99 g:20 h:23 k:68 o:161 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:41 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 k:68 o:161 p:4 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:41 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 k:81 o:161 p:4 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 k:81 n:13 o:148 p:4 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 i:89 k:81 n:13 o:148 p:4 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 i:89 k:81 l:73 n:13 o:148 p:4 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 i:89 k:81 l:73 n:13 o:148 p:4 r:25 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 g:20 h:23 i:89 k:81 l:73 m:63 n:13 o:85 p:4 r:25 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 e:1 g:20 h:23 i:89 k:80 l:73 m:63 n:13 o:85 p:4 r:25 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 e:1 g:20 h:23 i:121 k:80 l:73 m:63 n:13 o:85 p:4 r:25 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 e:28 g:20 h:23 i:121 k:80 l:73 m:63 n:13 o:85 p:4 r:25 s:24 u:6 v:70 w:4 
+Apr 07, 2023 5:25:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 e:28 g:20 h:23 i:121 k:80 l:73 m:63 n:13 o:85 p:4 r:25 s:43 u:6 v:70 w:4 
+Apr 07, 2023 5:25:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 e:28 g:20 h:23 i:121 k:80 l:73 m:63 n:13 o:85 p:4 q:10 r:25 s:43 u:6 v:70 w:4 
+Apr 07, 2023 5:25:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:80 l:73 m:63 n:13 o:85 p:4 q:10 r:25 s:43 u:6 v:70 w:4 
+Apr 07, 2023 5:25:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:80 l:73 m:63 n:13 o:85 p:4 q:10 r:25 s:43 u:6 v:70 w:4 
+Apr 07, 2023 5:25:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:80 l:73 m:63 n:13 o:85 p:4 q:0 r:35 s:43 u:6 v:70 w:4 
+Apr 07, 2023 5:25:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:80 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:43 u:6 v:61 w:4 
+Apr 07, 2023 5:25:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:80 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:43 u:19 v:61 w:4 
+Apr 07, 2023 5:25:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:69 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:61 w:4 
+Apr 07, 2023 5:25:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:69 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:52 w:13 
+Apr 07, 2023 5:25:47 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 g:20 h:23 i:121 j:84 k:68 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:53 w:13 
+Apr 07, 2023 5:25:47 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:121 j:84 k:68 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:53 w:13 
+Apr 07, 2023 5:25:48 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:121 j:84 k:68 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:53 w:107 
+Apr 07, 2023 5:25:48 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:84 k:68 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:53 w:107 
+Apr 07, 2023 5:25:48 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:84 k:68 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:53 w:107 y:89 
+Apr 07, 2023 5:25:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:68 l:73 m:63 n:13 o:85 p:4 q:0 r:44 s:54 u:19 v:53 w:143 y:89 
+Apr 07, 2023 5:25:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:68 l:73 m:63 n:13 o:85 p:4 q:5 r:39 s:54 u:19 v:53 w:143 y:89 
+Apr 07, 2023 5:25:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:68 l:73 m:63 n:13 o:85 p:4 q:5 r:39 s:54 u:19 v:55 w:143 y:89 
+Apr 07, 2023 5:25:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:68 l:73 m:63 n:13 o:85 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:89 
+Apr 07, 2023 5:25:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:68 l:73 m:63 n:73 o:85 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:89 
+Apr 07, 2023 5:25:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:68 l:96 m:63 n:73 o:85 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:89 
+Apr 07, 2023 5:25:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:78 d:95 e:28 f:20 g:20 h:3 i:130 j:48 k:17 l:147 m:63 n:73 o:85 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:89 
+Apr 07, 2023 5:25:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:28 f:20 g:20 h:3 i:130 j:19 k:17 l:147 m:63 n:73 o:85 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:89 
+Apr 07, 2023 5:25:51 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:28 f:20 g:20 h:3 i:130 j:19 k:17 l:147 m:63 n:73 o:85 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:168 
+Apr 07, 2023 5:25:51 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:28 f:20 g:20 h:3 i:130 j:19 k:17 l:147 m:63 n:73 o:172 p:4 q:13 r:39 s:54 u:19 v:55 w:143 y:168 
+Apr 07, 2023 5:25:51 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:28 f:20 g:20 h:3 i:130 j:19 k:17 l:147 m:63 n:73 o:172 p:4 q:13 r:39 s:54 u:19 v:55 w:143 x:26 y:168 
+Apr 07, 2023 5:25:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:28 f:20 g:20 h:3 i:219 j:19 k:17 l:147 m:63 n:73 o:172 p:4 q:13 r:39 s:54 u:19 v:55 w:143 x:26 y:168 
+Apr 07, 2023 5:25:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:27 f:20 g:20 h:3 i:219 j:19 k:17 l:147 m:63 n:73 o:172 p:4 q:13 r:39 s:54 t:1 u:19 v:55 w:143 x:26 y:168 
+Apr 07, 2023 5:25:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:95 e:27 f:20 g:20 h:3 i:219 j:19 k:17 l:177 m:63 n:73 o:172 p:4 q:13 r:39 s:54 t:1 u:19 v:55 w:143 x:26 y:168 
+Apr 07, 2023 5:25:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:102 e:27 f:20 g:20 h:3 i:219 j:19 k:17 l:177 m:63 n:73 o:172 p:4 q:13 r:39 s:54 t:1 u:19 v:55 w:136 x:26 y:168 
+Apr 07, 2023 5:25:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:102 e:27 f:20 g:20 h:3 i:219 j:19 k:17 l:177 m:66 n:73 o:172 p:4 q:13 r:39 s:54 t:1 u:19 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:57 b:84 c:107 d:102 e:27 f:20 g:20 h:3 i:219 j:19 k:17 l:177 m:66 n:73 o:172 p:4 q:11 r:39 s:54 t:1 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:84 c:107 d:102 e:27 f:20 g:20 h:3 i:219 j:43 k:17 l:177 m:66 n:73 o:172 p:4 q:11 r:39 s:54 t:1 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:84 c:107 d:102 e:27 f:20 g:20 h:24 i:219 j:22 k:17 l:177 m:66 n:73 o:172 p:4 q:11 r:39 s:54 t:1 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:84 c:107 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:17 l:177 m:66 n:73 o:172 p:4 q:11 r:39 s:54 t:1 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:17 l:177 m:66 n:73 o:172 p:4 q:11 r:39 s:54 t:1 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:17 l:191 m:66 n:73 o:172 p:4 q:11 r:39 s:40 t:1 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:17 l:191 m:66 n:73 o:172 p:4 q:11 r:17 s:40 t:23 u:21 v:55 w:133 x:26 y:168 
+Apr 07, 2023 5:25:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:19 l:191 m:66 n:73 o:172 p:4 q:11 r:17 s:40 t:23 u:21 v:55 w:131 x:26 y:168 
+Apr 07, 2023 5:25:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:19 l:191 m:66 n:73 o:172 p:4 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:168 
+Apr 07, 2023 5:25:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:33 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:219 j:22 k:19 l:191 m:66 n:73 o:172 p:79 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:168 
+Apr 07, 2023 5:25:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:90 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:162 j:22 k:19 l:191 m:66 n:73 o:172 p:79 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:168 
+Apr 07, 2023 5:25:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:90 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:162 j:22 k:19 l:133 m:66 n:73 o:172 p:79 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:226 
+Apr 07, 2023 5:25:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:90 b:135 c:56 d:104 e:27 f:20 g:20 h:22 i:162 j:22 k:19 l:133 m:28 n:73 o:210 p:79 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:226 
+Apr 07, 2023 5:25:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:90 b:135 c:56 d:101 e:27 f:20 g:20 h:22 i:162 j:22 k:19 l:133 m:28 n:73 o:210 p:82 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:226 
+Apr 07, 2023 5:25:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:135 c:56 d:101 e:27 f:20 g:20 h:22 i:169 j:22 k:19 l:133 m:28 n:73 o:210 p:82 q:11 r:17 s:40 t:23 u:21 v:90 w:131 x:26 y:226 
+Apr 07, 2023 5:25:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:137 c:56 d:101 e:27 f:20 g:20 h:22 i:169 j:22 k:19 l:133 m:28 n:73 o:210 p:82 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:226 
+Apr 07, 2023 5:25:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:137 c:56 d:101 e:27 f:20 g:20 h:22 i:149 j:22 k:19 l:133 m:28 n:73 o:210 p:82 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 
+Apr 07, 2023 5:25:57 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:137 c:56 d:19 e:27 f:20 g:102 h:22 i:149 j:22 k:19 l:133 m:28 n:73 o:210 p:82 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 
+Apr 07, 2023 5:25:57 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:137 c:56 d:19 e:27 f:20 g:102 h:22 i:149 j:22 k:19 l:133 m:28 n:73 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 
+Apr 07, 2023 5:25:57 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:137 c:56 d:19 e:27 f:20 g:102 h:22 i:149 j:22 k:17 l:135 m:28 n:73 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 
+Apr 07, 2023 5:25:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:137 c:56 d:19 e:27 f:20 g:201 h:22 i:149 j:22 k:17 l:135 m:28 n:73 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 
+Apr 07, 2023 5:25:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:137 c:56 d:19 e:27 f:27 g:201 h:22 i:149 j:22 k:17 l:135 m:28 n:66 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 
+Apr 07, 2023 5:25:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:137 c:56 d:19 e:27 f:27 g:201 h:22 i:149 j:22 k:17 l:135 m:28 n:66 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 z:85 
+Apr 07, 2023 5:25:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:137 c:71 d:19 e:27 f:27 g:201 h:22 i:149 j:22 k:2 l:135 m:28 n:66 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 z:85 
+Apr 07, 2023 5:25:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:19 e:27 f:27 g:201 h:22 i:149 j:23 k:2 l:135 m:28 n:66 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 z:85 
+Apr 07, 2023 5:25:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:19 e:27 f:27 g:201 h:22 i:178 j:23 k:2 l:135 m:28 n:66 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:26 y:246 z:85 
+Apr 07, 2023 5:25:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:19 e:27 f:27 g:201 h:22 i:178 j:23 k:7 l:135 m:28 n:66 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:25:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:19 e:27 f:27 g:201 h:22 i:173 j:23 k:7 l:135 m:28 n:71 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:25:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:19 e:28 f:27 g:201 h:22 i:173 j:23 k:7 l:135 m:28 n:71 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:19 e:28 f:27 g:203 h:22 i:173 j:23 k:7 l:133 m:28 n:71 o:210 p:81 q:11 r:17 s:40 t:23 u:19 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:19 e:28 f:27 g:203 h:22 i:173 j:23 k:7 l:133 m:28 n:71 o:210 p:81 q:11 r:17 s:40 t:23 u:52 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:19 e:28 f:27 g:208 h:22 i:173 j:23 k:7 l:133 m:23 n:71 o:210 p:81 q:11 r:17 s:40 t:23 u:52 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:19 e:28 f:27 g:208 h:22 i:171 j:23 k:7 l:133 m:23 n:71 o:212 p:81 q:11 r:17 s:40 t:23 u:52 v:90 w:131 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:19 e:28 f:27 g:208 h:22 i:171 j:23 k:7 l:133 m:24 n:71 o:212 p:81 q:11 r:17 s:40 t:23 u:52 v:90 w:130 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:75 e:28 f:27 g:152 h:22 i:171 j:23 k:7 l:133 m:24 n:71 o:212 p:81 q:11 r:17 s:40 t:23 u:52 v:90 w:130 x:21 y:246 z:85 
+Apr 07, 2023 5:26:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:75 e:61 f:27 g:152 h:22 i:171 j:23 k:7 l:133 m:24 n:71 o:179 p:81 q:11 r:17 s:40 t:23 u:52 v:90 w:130 x:21 y:246 z:85 
+Apr 07, 2023 5:26:01 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:75 e:61 f:27 g:152 h:22 i:171 j:23 k:7 l:133 m:24 n:71 o:179 p:81 q:11 r:17 s:40 t:23 u:52 v:126 w:130 x:21 y:210 z:85 
+Apr 07, 2023 5:26:01 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:83 b:136 c:71 d:75 e:61 f:25 g:152 h:22 i:171 j:23 k:7 l:133 m:26 n:71 o:179 p:81 q:11 r:17 s:40 t:23 u:52 v:126 w:130 x:21 y:210 z:85 
+Apr 07, 2023 5:26:01 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:25 g:152 h:22 i:171 j:23 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:17 s:40 t:23 u:52 v:126 w:130 x:21 y:210 z:85 
+Apr 07, 2023 5:26:01 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:28 g:152 h:22 i:171 j:23 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:17 s:37 t:23 u:52 v:126 w:130 x:21 y:210 z:85 
+Apr 07, 2023 5:26:01 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:28 g:152 h:94 i:171 j:23 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:17 s:37 t:23 u:52 v:126 w:130 x:21 y:210 z:85 
+Apr 07, 2023 5:26:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:28 g:152 h:94 i:171 j:23 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:21 s:37 t:23 u:52 v:126 w:130 x:21 y:206 z:85 
+Apr 07, 2023 5:26:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:171 j:23 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:21 s:37 t:23 u:52 v:96 w:130 x:21 y:206 z:85 
+Apr 07, 2023 5:26:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:23 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:21 s:37 t:23 u:52 v:104 w:130 x:21 y:206 z:85 
+Apr 07, 2023 5:26:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:111 k:7 l:133 m:26 n:71 o:179 p:80 q:11 r:21 s:37 t:23 u:52 v:104 w:130 x:21 y:206 z:85 
+Apr 07, 2023 5:26:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:111 k:7 l:133 m:26 n:73 o:179 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:21 y:206 z:85 
+Apr 07, 2023 5:26:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:111 k:7 l:133 m:72 n:73 o:179 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:21 y:206 z:85 
+Apr 07, 2023 5:26:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:84 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:111 k:7 l:133 m:72 n:73 o:179 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:84 y:206 z:85 
+Apr 07, 2023 5:26:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:111 k:7 l:133 m:72 n:73 o:167 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:84 y:206 z:85 
+Apr 07, 2023 5:26:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:84 y:206 z:85 
+Apr 07, 2023 5:26:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:136 c:71 d:75 e:61 f:58 g:152 h:94 i:163 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:84 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:71 d:75 e:104 f:58 g:152 h:94 i:163 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:9 r:21 s:37 t:23 u:52 v:104 w:130 x:84 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:71 d:75 e:104 f:58 g:152 h:94 i:163 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:9 r:21 s:37 t:23 u:52 v:114 w:130 x:84 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:58 g:152 h:94 i:163 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:3 r:21 s:37 t:23 u:52 v:114 w:130 x:84 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:58 g:152 h:94 i:163 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:3 r:21 s:37 t:23 u:52 v:114 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:58 g:152 h:94 i:133 j:195 k:7 l:133 m:72 n:73 o:167 p:80 q:3 r:21 s:37 t:23 u:52 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:58 g:152 h:94 i:133 j:195 k:7 l:121 m:72 n:73 o:167 p:92 q:3 r:21 s:37 t:23 u:52 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:59 g:152 h:94 i:132 j:195 k:7 l:121 m:72 n:73 o:167 p:92 q:3 r:21 s:37 t:23 u:52 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:59 g:152 h:94 i:132 j:195 k:7 l:121 m:101 n:73 o:167 p:92 q:3 r:21 s:8 t:23 u:52 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:59 g:152 h:94 i:132 j:195 k:7 l:121 m:101 n:50 o:167 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:59 g:152 h:94 i:130 j:195 k:7 l:121 m:101 n:50 o:169 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:93 c:77 d:75 e:104 f:59 g:154 h:94 i:130 j:195 k:7 l:121 m:99 n:50 o:169 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:94 c:77 d:75 e:104 f:59 g:154 h:94 i:130 j:194 k:7 l:121 m:99 n:50 o:169 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:94 c:77 d:75 e:104 f:50 g:163 h:94 i:130 j:194 k:7 l:121 m:99 n:50 o:169 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:94 c:77 d:75 e:141 f:50 g:163 h:94 i:130 j:194 k:7 l:121 m:99 n:50 o:169 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:96 b:94 c:77 d:75 e:141 f:50 g:163 h:94 i:130 j:194 k:7 l:120 m:100 n:50 o:169 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:89 b:94 c:77 d:75 e:141 f:50 g:163 h:94 i:130 j:194 k:7 l:120 m:100 n:50 o:176 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:77 d:75 e:141 f:50 g:163 h:94 i:130 j:185 k:7 l:120 m:100 n:50 o:176 p:92 q:3 r:21 s:8 t:23 u:75 v:144 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:77 d:75 e:141 f:50 g:163 h:94 i:131 j:185 k:7 l:120 m:100 n:50 o:176 p:92 q:3 r:21 s:8 t:23 u:75 v:143 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:77 d:75 e:149 f:50 g:163 h:94 i:131 j:185 k:7 l:120 m:100 n:42 o:176 p:92 q:3 r:21 s:8 t:23 u:75 v:143 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:77 d:75 e:149 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:100 n:42 o:176 p:92 q:3 r:21 s:25 t:23 u:75 v:143 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:77 d:75 e:149 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:100 n:27 o:176 p:92 q:18 r:21 s:25 t:23 u:75 v:143 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:77 d:75 e:149 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:100 n:27 o:176 p:58 q:18 r:21 s:25 t:57 u:75 v:143 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:78 d:75 e:149 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:99 n:27 o:176 p:58 q:18 r:21 s:25 t:57 u:75 v:143 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:78 d:75 e:149 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:97 n:27 o:176 p:58 q:18 r:21 s:25 t:57 u:75 v:145 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:78 d:75 e:151 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:97 n:27 o:176 p:58 q:18 r:21 s:23 t:57 u:75 v:145 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:78 d:75 e:141 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:97 n:27 o:176 p:58 q:18 r:21 s:23 t:57 u:75 v:155 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:78 d:75 e:142 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:97 n:27 o:176 p:58 q:18 r:20 s:23 t:57 u:75 v:155 w:130 x:153 y:268 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:98 b:94 c:78 d:75 e:142 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:97 n:27 o:176 p:58 q:18 r:34 s:23 t:57 u:75 v:155 w:130 x:153 y:254 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:100 b:94 c:78 d:75 e:142 f:50 g:146 h:94 i:131 j:185 k:7 l:120 m:97 n:25 o:176 p:58 q:18 r:34 s:23 t:57 u:75 v:155 w:130 x:153 y:254 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:78 d:75 e:142 f:50 g:146 h:94 i:131 j:185 k:2 l:120 m:97 n:25 o:176 p:58 q:18 r:34 s:23 t:57 u:75 v:155 w:130 x:153 y:254 z:85 
+Apr 07, 2023 5:26:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:78 d:75 e:142 f:50 g:146 h:94 i:131 j:185 k:2 l:120 m:97 n:25 o:176 p:58 q:18 r:34 s:23 t:82 u:75 v:155 w:105 x:153 y:254 z:85 
+Apr 07, 2023 5:26:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:78 d:75 e:142 f:50 g:146 h:94 i:131 j:185 k:2 l:120 m:97 n:116 o:176 p:58 q:18 r:34 s:23 t:82 u:75 v:155 w:105 x:153 y:254 z:85 
+Apr 07, 2023 5:26:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:78 d:75 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:116 o:180 p:58 q:18 r:34 s:23 t:82 u:75 v:155 w:105 x:153 y:254 z:85 
+Apr 07, 2023 5:26:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:78 d:76 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:116 o:180 p:58 q:18 r:34 s:22 t:82 u:75 v:155 w:105 x:153 y:254 z:85 
+Apr 07, 2023 5:26:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:78 d:76 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:185 p:58 q:18 r:34 s:22 t:82 u:75 v:155 w:105 x:153 y:254 z:85 
+Apr 07, 2023 5:26:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:49 d:105 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:185 p:58 q:18 r:34 s:22 t:82 u:75 v:155 w:105 x:153 y:254 z:85 
+Apr 07, 2023 5:26:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:49 d:105 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:185 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:153 y:254 z:85 
+Apr 07, 2023 5:26:11 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:49 d:105 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:185 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:153 y:256 z:85 
+Apr 07, 2023 5:26:11 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:49 d:105 e:142 f:50 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:185 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:182 y:256 z:85 
+Apr 07, 2023 5:26:11 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:49 d:105 e:142 f:82 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:185 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:182 y:256 z:85 
+Apr 07, 2023 5:26:11 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:51 d:105 e:142 f:82 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:183 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:182 y:256 z:85 
+Apr 07, 2023 5:26:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:105 e:142 f:85 g:142 h:94 i:131 j:185 k:2 l:120 m:97 n:111 o:183 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:182 y:256 z:85 
+Apr 07, 2023 5:26:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:105 e:142 f:85 g:142 h:94 i:124 j:185 k:2 l:120 m:97 n:111 o:183 p:58 q:18 r:29 s:22 t:82 u:75 v:155 w:110 x:189 y:256 z:85 
+Apr 07, 2023 5:26:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:105 e:142 f:85 g:142 h:94 i:124 j:185 k:2 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:155 w:110 x:189 y:256 z:85 
+Apr 07, 2023 5:26:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:107 e:142 f:85 g:142 h:94 i:124 j:185 k:0 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:155 w:110 x:189 y:256 z:85 
+Apr 07, 2023 5:26:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:107 e:142 f:134 g:142 h:94 i:124 j:185 k:0 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:106 w:110 x:189 y:256 z:85 
+Apr 07, 2023 5:26:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:107 e:142 f:134 g:142 h:94 i:124 j:204 k:0 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:106 w:110 x:170 y:256 z:85 
+Apr 07, 2023 5:26:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:107 e:142 f:134 g:142 h:93 i:124 j:204 k:0 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:106 w:110 x:170 y:256 z:86 
+Apr 07, 2023 5:26:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:106 e:142 f:134 g:142 h:93 i:124 j:204 k:0 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:106 w:110 x:171 y:256 z:86 
+Apr 07, 2023 5:26:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:106 e:142 f:134 g:142 h:93 i:124 j:204 k:0 l:120 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:106 w:110 x:164 y:256 z:93 
+Apr 07, 2023 5:26:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:94 c:48 d:106 e:142 f:134 g:142 h:93 i:124 j:201 k:0 l:123 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:75 v:106 w:110 x:164 y:256 z:93 
+Apr 07, 2023 5:26:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:105 b:75 c:48 d:106 e:142 f:134 g:142 h:93 i:124 j:201 k:0 l:123 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:94 v:106 w:110 x:164 y:256 z:93 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:106 e:142 f:134 g:142 h:93 i:124 j:201 k:0 l:123 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:94 v:106 w:110 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:106 e:142 f:134 g:142 h:107 i:124 j:201 k:0 l:123 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:94 v:92 w:110 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:106 e:142 f:134 g:142 h:107 i:192 j:133 k:0 l:123 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:94 v:92 w:110 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:106 e:142 f:134 g:142 h:107 i:192 j:133 k:0 l:123 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:94 v:92 w:179 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:106 e:152 f:134 g:142 h:107 i:192 j:133 k:0 l:113 m:97 n:111 o:183 p:58 q:18 r:97 s:22 t:82 u:94 v:92 w:179 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:105 e:152 f:134 g:142 h:107 i:192 j:133 k:0 l:113 m:97 n:111 o:184 p:58 q:18 r:97 s:22 t:82 u:94 v:92 w:179 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:192 j:133 k:0 l:113 m:97 n:111 o:184 p:58 q:18 r:103 s:22 t:82 u:94 v:92 w:179 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:143 k:0 l:113 m:97 n:111 o:184 p:58 q:18 r:103 s:22 t:82 u:94 v:92 w:179 x:164 y:256 z:95 
+Apr 07, 2023 5:26:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:143 k:0 l:194 m:97 n:111 o:184 p:58 q:18 r:103 s:22 t:82 u:94 v:92 w:179 x:164 y:256 z:95 
+Apr 07, 2023 5:26:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:103 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:143 k:0 l:194 m:97 n:111 o:184 p:58 q:18 r:103 s:22 t:82 u:94 v:86 w:185 x:164 y:256 z:95 
+Apr 07, 2023 5:26:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:143 k:0 l:194 m:97 n:111 o:184 p:58 q:18 r:103 s:22 t:82 u:94 v:86 w:186 x:164 y:256 z:95 
+Apr 07, 2023 5:26:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:143 k:0 l:194 m:97 n:111 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:86 w:186 x:164 y:256 z:95 
+Apr 07, 2023 5:26:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:143 k:0 l:194 m:97 n:111 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:76 w:186 x:164 y:256 z:105 
+Apr 07, 2023 5:26:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:134 g:136 h:107 i:182 j:218 k:0 l:194 m:97 n:111 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:76 w:186 x:164 y:256 z:105 
+Apr 07, 2023 5:26:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:134 g:136 h:104 i:182 j:218 k:0 l:197 m:97 n:111 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:76 w:186 x:164 y:256 z:105 
+Apr 07, 2023 5:26:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:134 g:136 h:104 i:182 j:218 k:0 l:197 m:97 n:111 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:76 w:186 x:164 y:256 z:122 
+Apr 07, 2023 5:26:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:136 h:104 i:182 j:218 k:0 l:197 m:97 n:67 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:76 w:186 x:164 y:256 z:122 
+Apr 07, 2023 5:26:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:67 o:184 p:58 q:18 r:131 s:22 t:82 u:94 v:76 w:186 x:164 y:256 z:122 
+Apr 07, 2023 5:26:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:67 o:184 p:58 q:18 r:131 s:89 t:82 u:94 v:76 w:186 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:67 o:184 p:58 q:18 r:131 s:89 t:82 u:94 v:98 w:186 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:67 o:184 p:58 q:17 r:131 s:89 t:82 u:94 v:98 w:187 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:67 o:184 p:58 q:17 r:131 s:89 t:82 u:115 v:98 w:166 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:87 o:184 p:58 q:17 r:131 s:89 t:82 u:115 v:98 w:146 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:218 k:0 l:197 m:97 n:87 o:184 p:58 q:60 r:131 s:89 t:82 u:115 v:98 w:146 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:130 k:0 l:197 m:97 n:87 o:184 p:58 q:60 r:131 s:89 t:170 u:115 v:98 w:146 x:164 y:256 z:122 
+Apr 07, 2023 5:26:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:75 c:48 d:105 e:152 f:178 g:135 h:105 i:182 j:130 k:0 l:197 m:97 n:87 o:184 p:52 q:60 r:131 s:95 t:170 u:115 v:98 w:146 x:164 y:256 z:122 
+Apr 07, 2023 5:26:18 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:101 c:48 d:105 e:152 f:178 g:135 h:105 i:156 j:130 k:0 l:197 m:97 n:87 o:184 p:52 q:60 r:131 s:95 t:170 u:115 v:98 w:146 x:164 y:256 z:122 
+Apr 07, 2023 5:26:18 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:101 c:28 d:105 e:152 f:178 g:135 h:105 i:156 j:130 k:0 l:217 m:97 n:87 o:184 p:52 q:60 r:131 s:95 t:170 u:115 v:98 w:146 x:164 y:256 z:122 
+Apr 07, 2023 5:26:18 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:102 b:101 c:28 d:128 e:152 f:178 g:135 h:105 i:156 j:130 k:0 l:217 m:97 n:87 o:184 p:52 q:60 r:131 s:95 t:170 u:115 v:98 w:146 x:141 y:256 z:122 
+Apr 07, 2023 5:26:18 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:109 b:101 c:28 d:128 e:152 f:178 g:135 h:105 i:156 j:130 k:0 l:217 m:97 n:87 o:184 p:52 q:53 r:131 s:95 t:170 u:115 v:98 w:146 x:141 y:256 z:122 
+Apr 07, 2023 5:26:18 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:109 b:101 c:28 d:128 e:152 f:178 g:135 h:105 i:156 j:130 k:0 l:217 m:158 n:87 o:184 p:52 q:53 r:131 s:95 t:170 u:115 v:98 w:146 x:141 y:256 z:122 
+Apr 07, 2023 5:26:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:109 b:101 c:28 d:128 e:152 f:178 g:135 h:116 i:156 j:130 k:0 l:217 m:158 n:87 o:184 p:52 q:53 r:131 s:95 t:170 u:115 v:98 w:146 x:141 y:256 z:122 
+Apr 07, 2023 5:26:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:109 b:101 c:28 d:128 e:152 f:178 g:135 h:116 i:156 j:130 k:0 l:217 m:158 n:87 o:183 p:52 q:53 r:131 s:95 t:171 u:115 v:98 w:146 x:141 y:256 z:122 
+Apr 07, 2023 5:26:20 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:109 b:101 c:28 d:128 e:152 f:178 g:135 h:116 i:156 j:130 k:0 l:217 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:98 w:152 x:141 y:256 z:122 
+Apr 07, 2023 5:26:20 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:110 b:101 c:28 d:128 e:152 f:178 g:135 h:116 i:156 j:130 k:0 l:217 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:97 w:152 x:141 y:256 z:122 
+Apr 07, 2023 5:26:20 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:101 c:28 d:128 e:152 f:178 g:135 h:116 i:156 j:130 k:0 l:185 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:97 w:152 x:141 y:256 z:122 
+Apr 07, 2023 5:26:21 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:101 c:28 d:128 e:152 f:178 g:134 h:116 i:156 j:130 k:0 l:185 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:98 w:152 x:141 y:256 z:122 
+Apr 07, 2023 5:26:21 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:101 c:28 d:128 e:152 f:178 g:134 h:116 i:156 j:130 k:7 l:185 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:98 w:152 x:134 y:256 z:122 
+Apr 07, 2023 5:26:21 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:178 g:134 h:116 i:156 j:130 k:7 l:185 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:98 w:146 x:134 y:256 z:122 
+Apr 07, 2023 5:26:22 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:178 g:134 h:116 i:156 j:130 k:7 l:185 m:158 n:87 o:183 p:52 q:53 r:125 s:95 t:171 u:115 v:98 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:22 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:160 g:134 h:116 i:156 j:130 k:7 l:185 m:158 n:87 o:201 p:52 q:53 r:125 s:95 t:171 u:115 v:98 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:22 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:160 g:134 h:116 i:156 j:130 k:7 l:185 m:134 n:87 o:201 p:52 q:53 r:125 s:95 t:171 u:139 v:98 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:22 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:162 g:132 h:116 i:156 j:130 k:7 l:185 m:134 n:87 o:201 p:52 q:53 r:125 s:95 t:171 u:139 v:98 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:22 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:162 g:132 h:116 i:156 j:130 k:7 l:185 m:134 n:87 o:201 p:52 q:53 r:125 s:110 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:23 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:107 c:28 d:128 e:152 f:162 g:132 h:116 i:156 j:130 k:7 l:185 m:165 n:87 o:201 p:21 q:53 r:125 s:110 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:23 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:186 c:28 d:128 e:152 f:162 g:53 h:116 i:156 j:130 k:7 l:185 m:165 n:87 o:201 p:21 q:53 r:125 s:110 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:23 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:186 c:28 d:176 e:152 f:162 g:53 h:116 i:156 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:53 r:125 s:110 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:23 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:142 b:186 c:28 d:191 e:137 f:162 g:53 h:116 i:156 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:53 r:125 s:110 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:23 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:28 d:191 e:137 f:162 g:53 h:116 i:162 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:53 r:125 s:110 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:23 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:33 d:191 e:137 f:162 g:53 h:116 i:162 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:53 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:213 z:122 
+Apr 07, 2023 5:26:24 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:33 d:191 e:148 f:162 g:53 h:116 i:162 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:53 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:202 z:122 
+Apr 07, 2023 5:26:24 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:30 d:191 e:148 f:162 g:56 h:116 i:162 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:53 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:202 z:122 
+Apr 07, 2023 5:26:25 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:30 d:191 e:148 f:162 g:56 h:116 i:162 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:82 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:202 z:122 
+Apr 07, 2023 5:26:25 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:30 d:191 e:224 f:162 g:56 h:116 i:162 j:130 k:7 l:185 m:165 n:39 o:201 p:21 q:82 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:202 z:122 
+Apr 07, 2023 5:26:25 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:136 b:186 c:30 d:191 e:224 f:162 g:56 h:116 i:162 j:133 k:7 l:185 m:165 n:39 o:201 p:21 q:82 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:162 g:56 h:116 i:162 j:133 k:7 l:157 m:165 n:39 o:201 p:21 q:82 r:125 s:105 t:171 u:139 v:83 w:189 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:116 i:162 j:133 k:7 l:157 m:165 n:39 o:201 p:21 q:82 r:125 s:105 t:171 u:139 v:83 w:197 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:116 i:162 j:133 k:7 l:157 m:165 n:39 o:201 p:21 q:82 r:125 s:105 t:149 u:139 v:83 w:219 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:116 i:162 j:133 k:7 l:158 m:165 n:39 o:200 p:21 q:82 r:125 s:105 t:149 u:139 v:83 w:219 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:182 i:162 j:133 k:7 l:158 m:165 n:39 o:200 p:21 q:82 r:125 s:105 t:149 u:139 v:83 w:219 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:182 i:162 j:133 k:7 l:169 m:165 n:39 o:200 p:21 q:82 r:125 s:105 t:149 u:139 v:83 w:208 x:134 y:199 z:122 
+Apr 07, 2023 5:26:26 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:182 i:162 j:133 k:7 l:99 m:165 n:39 o:200 p:91 q:82 r:125 s:105 t:149 u:139 v:83 w:208 x:134 y:199 z:122 
+Apr 07, 2023 5:26:27 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:182 i:162 j:133 k:7 l:99 m:165 n:39 o:200 p:91 q:82 r:125 s:107 t:149 u:139 v:83 w:208 x:134 y:199 z:122 
+Apr 07, 2023 5:26:27 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:191 e:224 f:154 g:56 h:182 i:162 j:133 k:7 l:99 m:165 n:39 o:200 p:91 q:82 r:122 s:107 t:149 u:139 v:83 w:208 x:137 y:199 z:122 
+Apr 07, 2023 5:26:27 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:140 e:224 f:154 g:56 h:182 i:162 j:184 k:7 l:99 m:165 n:39 o:200 p:91 q:82 r:122 s:107 t:149 u:139 v:83 w:208 x:137 y:199 z:122 
+Apr 07, 2023 5:26:27 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:186 c:30 d:140 e:224 f:154 g:56 h:182 i:162 j:184 k:7 l:99 m:165 n:64 o:200 p:91 q:82 r:97 s:107 t:149 u:139 v:83 w:208 x:137 y:199 z:122 
+Apr 07, 2023 5:26:27 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:164 b:233 c:30 d:140 e:224 f:154 g:56 h:182 i:162 j:184 k:7 l:99 m:165 n:64 o:200 p:91 q:82 r:97 s:107 t:149 u:139 v:83 w:208 x:90 y:199 z:122 
+Apr 07, 2023 5:26:27 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:200 b:233 c:30 d:104 e:224 f:154 g:56 h:182 i:162 j:184 k:7 l:99 m:165 n:64 o:200 p:91 q:82 r:97 s:107 t:149 u:139 v:83 w:208 x:90 y:199 z:122 
+Apr 07, 2023 5:26:28 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:200 b:233 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:184 k:7 l:99 m:165 n:64 o:200 p:91 q:82 r:97 s:107 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:28 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:200 b:233 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:185 k:7 l:99 m:165 n:63 o:200 p:91 q:82 r:97 s:107 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:28 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:233 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:185 k:7 l:99 m:165 n:63 o:200 p:91 q:82 r:97 s:136 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:28 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:233 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:185 k:7 l:99 m:165 n:54 o:200 p:91 q:82 r:97 s:145 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:29 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:233 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:213 k:7 l:99 m:165 n:26 o:200 p:91 q:82 r:97 s:145 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:29 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:233 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:213 k:7 l:99 m:165 n:26 o:200 p:114 q:59 r:97 s:145 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:29 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:104 e:224 f:150 g:56 h:182 i:162 j:213 k:7 l:99 m:165 n:26 o:200 p:114 q:59 r:97 s:145 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:30 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:104 e:224 f:150 g:56 h:182 i:161 j:213 k:7 l:99 m:165 n:26 o:200 p:115 q:59 r:97 s:145 t:149 u:139 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:30 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:104 e:224 f:150 g:56 h:182 i:161 j:213 k:7 l:99 m:165 n:26 o:200 p:133 q:59 r:97 s:145 t:149 u:121 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:30 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:100 e:224 f:150 g:56 h:182 i:161 j:213 k:7 l:99 m:165 n:26 o:200 p:133 q:59 r:97 s:145 t:153 u:121 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:30 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:100 e:224 f:150 g:56 h:182 i:161 j:213 k:7 l:90 m:165 n:26 o:200 p:133 q:59 r:97 s:145 t:153 u:130 v:83 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:30 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:100 e:224 f:150 g:56 h:182 i:161 j:213 k:7 l:90 m:165 n:26 o:213 p:133 q:59 r:97 s:145 t:153 u:130 v:70 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:31 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:171 b:246 c:30 d:100 e:224 f:150 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:26 o:213 p:133 q:59 r:97 s:136 t:153 u:130 v:70 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:31 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:100 e:224 f:150 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:213 p:133 q:59 r:97 s:136 t:153 u:130 v:70 w:208 x:90 y:203 z:122 
+Apr 07, 2023 5:26:31 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:100 e:224 f:148 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:213 p:133 q:59 r:97 s:136 t:153 u:130 v:70 w:208 x:92 y:203 z:122 
+Apr 07, 2023 5:26:32 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:103 e:224 f:148 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:213 p:133 q:59 r:97 s:136 t:153 u:127 v:70 w:208 x:92 y:203 z:122 
+Apr 07, 2023 5:26:32 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:103 e:224 f:148 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:70 w:208 x:92 y:203 z:122 
+Apr 07, 2023 5:26:32 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:103 e:267 f:148 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:70 w:208 x:92 y:160 z:122 
+Apr 07, 2023 5:26:33 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:103 e:267 f:148 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:70 w:208 x:92 y:160 z:129 
+Apr 07, 2023 5:26:33 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:98 e:267 f:148 g:56 h:182 i:161 j:222 k:7 l:90 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:75 w:208 x:92 y:160 z:129 
+Apr 07, 2023 5:26:34 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:98 e:267 f:148 g:50 h:182 i:161 j:222 k:7 l:96 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:75 w:208 x:92 y:160 z:129 
+Apr 07, 2023 5:26:34 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:98 e:267 f:148 g:50 h:182 i:161 j:222 k:7 l:96 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:75 w:210 x:90 y:160 z:129 
+Apr 07, 2023 5:26:35 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:98 e:267 f:148 g:50 h:182 i:161 j:222 k:13 l:96 m:165 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:75 w:204 x:90 y:160 z:129 
+Apr 07, 2023 5:26:35 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:30 d:98 e:267 f:148 g:50 h:221 i:161 j:222 k:13 l:96 m:126 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:75 w:204 x:90 y:160 z:129 
+Apr 07, 2023 5:26:36 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:148 g:50 h:221 i:161 j:222 k:13 l:96 m:126 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:73 w:204 x:90 y:160 z:129 
+Apr 07, 2023 5:26:36 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:148 g:50 h:221 i:161 j:287 k:13 l:96 m:126 n:24 o:220 p:133 q:59 r:90 s:136 t:153 u:127 v:73 w:204 x:90 y:160 z:129 
+Apr 07, 2023 5:26:36 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:148 g:50 h:221 i:161 j:287 k:13 l:96 m:126 n:23 o:220 p:133 q:59 r:90 s:136 t:154 u:127 v:73 w:204 x:90 y:160 z:129 
+Apr 07, 2023 5:26:36 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:120 g:50 h:249 i:161 j:287 k:13 l:96 m:126 n:23 o:220 p:133 q:59 r:90 s:136 t:154 u:127 v:73 w:204 x:90 y:160 z:129 
+Apr 07, 2023 5:26:36 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:120 g:50 h:249 i:161 j:287 k:13 l:96 m:126 n:23 o:220 p:133 q:59 r:90 s:136 t:154 u:127 v:73 w:265 x:90 y:160 z:129 
+Apr 07, 2023 5:26:36 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:120 g:50 h:249 i:161 j:287 k:13 l:96 m:126 n:23 o:220 p:133 q:154 r:90 s:136 t:154 u:127 v:73 w:265 x:90 y:160 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:120 g:50 h:249 i:161 j:287 k:13 l:139 m:126 n:23 o:220 p:133 q:154 r:90 s:136 t:154 u:127 v:73 w:222 x:90 y:160 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:120 g:50 h:249 i:161 j:287 k:13 l:139 m:126 n:23 o:220 p:133 q:154 r:180 s:136 t:154 u:127 v:73 w:222 x:90 y:160 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:267 f:120 g:50 h:249 i:161 j:287 k:13 l:139 m:126 n:23 o:220 p:133 q:154 r:180 s:136 t:154 u:150 v:73 w:222 x:90 y:160 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:252 f:120 g:50 h:249 i:161 j:287 k:13 l:139 m:141 n:23 o:220 p:133 q:154 r:180 s:136 t:154 u:150 v:73 w:222 x:90 y:160 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:252 f:120 g:50 h:249 i:161 j:287 k:13 l:148 m:141 n:23 o:220 p:133 q:154 r:180 s:136 t:154 u:150 v:64 w:222 x:90 y:160 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:252 f:120 g:50 h:249 i:161 j:287 k:13 l:148 m:141 n:23 o:220 p:133 q:154 r:175 s:136 t:154 u:150 v:64 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:37 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:252 f:120 g:50 h:249 i:161 j:287 k:12 l:148 m:141 n:23 o:220 p:133 q:154 r:176 s:136 t:154 u:150 v:64 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:38 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:252 f:120 g:50 h:344 i:161 j:287 k:12 l:148 m:141 n:23 o:220 p:133 q:154 r:176 s:136 t:154 u:150 v:64 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:38 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:252 f:117 g:50 h:344 i:161 j:287 k:12 l:148 m:141 n:23 o:220 p:133 q:154 r:176 s:136 t:154 u:150 v:67 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:38 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:208 f:117 g:50 h:344 i:161 j:287 k:12 l:148 m:141 n:23 o:264 p:133 q:154 r:176 s:136 t:154 u:150 v:67 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:38 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:208 f:117 g:50 h:344 i:160 j:287 k:12 l:148 m:141 n:23 o:264 p:134 q:154 r:176 s:136 t:154 u:150 v:67 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:208 f:117 g:50 h:344 i:160 j:287 k:12 l:148 m:141 n:23 o:264 p:134 q:154 r:176 s:136 t:144 u:150 v:77 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:173 b:246 c:32 d:98 e:208 f:114 g:50 h:344 i:160 j:287 k:12 l:148 m:141 n:23 o:264 p:137 q:154 r:176 s:136 t:144 u:150 v:77 w:222 x:90 y:165 z:129 
+Apr 07, 2023 5:26:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:32 d:98 e:208 f:114 g:50 h:344 i:160 j:287 k:12 l:148 m:141 n:23 o:264 p:137 q:154 r:176 s:136 t:144 u:150 v:77 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:32 d:98 e:208 f:114 g:50 h:344 i:233 j:287 k:12 l:148 m:141 n:23 o:264 p:137 q:154 r:176 s:136 t:144 u:150 v:77 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:32 d:98 e:208 f:114 g:50 h:344 i:233 j:289 k:12 l:146 m:141 n:23 o:264 p:137 q:154 r:176 s:136 t:144 u:150 v:77 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:39 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:32 d:98 e:208 f:114 g:50 h:344 i:233 j:289 k:12 l:146 m:141 n:23 o:264 p:137 q:154 r:176 s:136 t:121 u:150 v:100 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:98 e:208 f:114 g:50 h:344 i:233 j:289 k:12 l:146 m:141 n:23 o:264 p:146 q:154 r:176 s:136 t:121 u:150 v:100 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:90 e:208 f:114 g:58 h:344 i:233 j:289 k:12 l:146 m:141 n:23 o:264 p:146 q:154 r:176 s:136 t:121 u:150 v:100 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:81 e:208 f:114 g:58 h:344 i:233 j:289 k:12 l:155 m:141 n:23 o:264 p:146 q:154 r:176 s:136 t:121 u:150 v:100 w:222 x:90 y:165 z:130 
+Apr 07, 2023 5:26:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:81 e:208 f:114 g:58 h:344 i:233 j:289 k:12 l:155 m:141 n:23 o:264 p:146 q:154 r:176 s:136 t:121 u:150 v:100 w:241 x:90 y:146 z:130 
+Apr 07, 2023 5:26:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:86 e:208 f:114 g:58 h:344 i:233 j:289 k:12 l:155 m:141 n:23 o:264 p:141 q:154 r:176 s:136 t:121 u:150 v:100 w:241 x:90 y:146 z:130 
+Apr 07, 2023 5:26:40 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:86 e:208 f:114 g:58 h:344 i:233 j:289 k:12 l:155 m:141 n:23 o:264 p:141 q:154 r:176 s:136 t:121 u:150 v:100 w:199 x:90 y:188 z:130 
+Apr 07, 2023 5:26:41 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:86 e:208 f:114 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:264 p:141 q:154 r:176 s:136 t:121 u:150 v:100 w:199 x:90 y:188 z:130 
+Apr 07, 2023 5:26:41 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:23 d:86 e:208 f:127 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:154 r:176 s:136 t:121 u:150 v:100 w:199 x:90 y:188 z:130 
+Apr 07, 2023 5:26:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:82 d:86 e:208 f:127 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:154 r:176 s:136 t:121 u:150 v:100 w:199 x:90 y:188 z:130 
+Apr 07, 2023 5:26:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:82 d:86 e:208 f:127 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:154 r:176 s:136 t:121 u:152 v:100 w:199 x:90 y:186 z:130 
+Apr 07, 2023 5:26:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:82 d:121 e:208 f:127 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:154 r:176 s:136 t:121 u:117 v:100 w:199 x:90 y:186 z:130 
+Apr 07, 2023 5:26:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:82 d:121 e:208 f:127 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:154 r:176 s:136 t:123 u:117 v:100 w:199 x:90 y:184 z:130 
+Apr 07, 2023 5:26:42 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:208 f:127 g:58 h:344 i:233 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:95 r:176 s:136 t:123 u:117 v:100 w:199 x:90 y:184 z:130 
+Apr 07, 2023 5:26:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:208 f:127 g:58 h:344 i:170 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:95 r:176 s:199 t:123 u:117 v:100 w:199 x:90 y:184 z:130 
+Apr 07, 2023 5:26:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:180 f:127 g:58 h:344 i:170 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:95 r:176 s:199 t:151 u:117 v:100 w:199 x:90 y:184 z:130 
+Apr 07, 2023 5:26:43 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:132 f:127 g:58 h:344 i:170 j:288 k:12 l:155 m:141 n:24 o:251 p:141 q:95 r:176 s:199 t:151 u:117 v:100 w:199 x:138 y:184 z:130 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:132 f:127 g:58 h:344 i:170 j:288 k:12 l:155 m:141 n:24 o:283 p:141 q:95 r:176 s:199 t:151 u:117 v:100 w:199 x:138 y:184 z:130 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:132 f:127 g:58 h:344 i:170 j:288 k:12 l:148 m:141 n:24 o:283 p:141 q:95 r:176 s:199 t:151 u:117 v:100 w:199 x:138 y:191 z:130 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:132 f:127 g:58 h:344 i:170 j:288 k:12 l:148 m:141 n:24 o:283 p:141 q:95 r:176 s:199 t:151 u:114 v:100 w:199 x:138 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:132 f:127 g:58 h:344 i:170 j:288 k:12 l:148 m:141 n:24 o:283 p:170 q:95 r:176 s:170 t:151 u:114 v:100 w:199 x:138 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:132 f:127 g:58 h:344 i:170 j:288 k:12 l:148 m:141 n:24 o:283 p:170 q:95 r:176 s:147 t:151 u:137 v:100 w:199 x:138 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:246 c:141 d:121 e:151 f:127 g:58 h:344 i:170 j:288 k:12 l:148 m:122 n:24 o:283 p:170 q:95 r:176 s:147 t:151 u:137 v:100 w:199 x:138 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:274 c:141 d:121 e:151 f:127 g:58 h:344 i:170 j:288 k:12 l:148 m:122 n:24 o:283 p:170 q:95 r:176 s:147 t:151 u:137 v:100 w:199 x:110 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:274 c:141 d:121 e:151 f:126 g:58 h:344 i:171 j:288 k:12 l:148 m:122 n:24 o:283 p:170 q:95 r:176 s:147 t:151 u:137 v:100 w:199 x:110 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:274 c:141 d:121 e:151 f:126 g:58 h:344 i:171 j:288 k:12 l:148 m:122 n:24 o:258 p:170 q:120 r:176 s:147 t:151 u:137 v:100 w:199 x:110 y:191 z:133 
+Apr 07, 2023 5:26:44 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:274 c:141 d:118 e:151 f:126 g:58 h:344 i:171 j:288 k:15 l:148 m:122 n:24 o:258 p:170 q:120 r:176 s:147 t:151 u:137 v:100 w:199 x:110 y:191 z:133 
+Apr 07, 2023 5:26:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:172 b:274 c:141 d:118 e:151 f:126 g:58 h:344 i:171 j:288 k:15 l:148 m:122 n:24 o:263 p:170 q:120 r:176 s:147 t:151 u:137 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:151 f:126 g:58 h:344 i:171 j:288 k:15 l:148 m:122 n:24 o:263 p:170 q:120 r:176 s:147 t:151 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:148 f:126 g:58 h:344 i:171 j:288 k:15 l:148 m:122 n:27 o:263 p:170 q:120 r:176 s:147 t:151 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:148 f:126 g:58 h:344 i:171 j:288 k:15 l:148 m:122 n:27 o:269 p:170 q:120 r:176 s:147 t:151 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:45 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:148 f:126 g:58 h:344 i:171 j:288 k:15 l:148 m:122 n:27 o:269 p:166 q:120 r:176 s:151 t:151 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:148 f:126 g:58 h:344 i:171 j:288 k:13 l:148 m:122 n:27 o:269 p:166 q:120 r:178 s:151 t:151 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:148 f:126 g:58 h:344 i:171 j:288 k:13 l:148 m:122 n:25 o:269 p:166 q:122 r:178 s:151 t:151 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:274 c:141 d:118 e:148 f:126 g:58 h:346 i:171 j:288 k:13 l:148 m:122 n:25 o:269 p:166 q:122 r:178 s:151 t:149 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:181 b:252 c:141 d:118 e:148 f:126 g:58 h:346 i:171 j:288 k:13 l:148 m:122 n:25 o:269 p:166 q:122 r:178 s:151 t:171 u:128 v:100 w:199 x:110 y:186 z:133 
+Apr 07, 2023 5:26:46 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:118 e:148 f:126 g:58 h:346 i:171 j:288 k:13 l:148 m:122 n:25 o:269 p:166 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:110 y:186 z:133 
+Apr 07, 2023 5:26:47 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:118 e:148 f:126 g:58 h:346 i:210 j:288 k:13 l:109 m:122 n:25 o:269 p:166 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:110 y:186 z:133 
+Apr 07, 2023 5:26:47 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:118 e:148 f:126 g:58 h:354 i:210 j:288 k:13 l:109 m:114 n:25 o:269 p:166 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:110 y:186 z:133 
+Apr 07, 2023 5:26:48 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:118 e:148 f:126 g:138 h:354 i:210 j:288 k:13 l:109 m:114 n:25 o:269 p:166 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:110 y:186 z:133 
+Apr 07, 2023 5:26:48 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:118 e:148 f:126 g:138 h:354 i:210 j:288 k:13 l:109 m:133 n:25 o:269 p:147 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:110 y:186 z:133 
+Apr 07, 2023 5:26:48 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:189 e:148 f:126 g:138 h:354 i:139 j:288 k:13 l:109 m:133 n:25 o:269 p:147 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:110 y:186 z:133 
+Apr 07, 2023 5:26:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:189 e:148 f:126 g:138 h:354 i:139 j:288 k:13 l:109 m:133 n:25 o:269 p:147 q:122 r:178 s:151 t:171 u:128 v:100 w:171 x:202 y:186 z:133 
+Apr 07, 2023 5:26:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:189 e:148 f:126 g:138 h:354 i:139 j:295 k:13 l:109 m:133 n:25 o:269 p:147 q:122 r:178 s:151 t:171 u:121 v:100 w:171 x:202 y:186 z:133 
+Apr 07, 2023 5:26:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:141 d:189 e:148 f:126 g:138 h:354 i:139 j:295 k:13 l:109 m:133 n:25 o:269 p:147 q:122 r:178 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:88 d:189 e:148 f:126 g:138 h:354 i:139 j:295 k:13 l:109 m:133 n:25 o:269 p:200 q:122 r:178 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:49 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:88 d:189 e:148 f:126 g:138 h:354 i:139 j:295 k:13 l:67 m:133 n:25 o:269 p:242 q:122 r:178 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:88 d:189 e:148 f:126 g:138 h:354 i:140 j:295 k:13 l:66 m:133 n:25 o:269 p:242 q:122 r:178 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:252 c:88 d:189 e:148 f:128 g:138 h:354 i:140 j:295 k:13 l:66 m:133 n:25 o:269 p:242 q:120 r:178 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:88 d:189 e:148 f:128 g:138 h:385 i:140 j:295 k:13 l:66 m:133 n:25 o:269 p:242 q:120 r:178 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:189 e:148 f:128 g:138 h:385 i:140 j:295 k:13 l:66 m:133 n:25 o:269 p:242 q:120 r:169 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:50 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:189 e:148 f:128 g:138 h:385 i:171 j:295 k:13 l:66 m:133 n:25 o:238 p:242 q:120 r:169 s:151 t:171 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:51 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:189 e:148 f:128 g:138 h:385 i:171 j:295 k:24 l:66 m:133 n:25 o:238 p:242 q:120 r:169 s:151 t:160 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:51 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:186 e:148 f:128 g:141 h:385 i:171 j:295 k:24 l:66 m:133 n:25 o:238 p:242 q:120 r:169 s:151 t:160 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:51 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:186 e:148 f:128 g:141 h:454 i:171 j:295 k:24 l:66 m:133 n:25 o:238 p:242 q:120 r:169 s:151 t:160 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:186 e:148 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:133 n:25 o:239 p:242 q:120 r:169 s:151 t:160 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:186 e:148 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:133 n:25 o:239 p:242 q:120 r:169 s:241 t:160 u:121 v:100 w:237 x:202 y:186 z:133 
+Apr 07, 2023 5:26:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:186 e:148 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:133 n:25 o:290 p:242 q:120 r:169 s:241 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:186 e:148 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:133 n:26 o:290 p:242 q:119 r:169 s:241 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:148 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:133 n:26 o:290 p:242 q:119 r:169 s:261 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:52 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:133 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:133 n:26 o:290 p:257 q:119 r:169 s:261 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:133 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:137 n:26 o:286 p:257 q:119 r:169 s:261 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:133 f:128 g:141 h:454 i:170 j:295 k:24 l:66 m:137 n:26 o:258 p:257 q:147 r:169 s:261 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:53 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:133 f:128 g:141 h:454 i:170 j:295 k:40 l:66 m:137 n:26 o:258 p:257 q:147 r:169 s:261 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:133 f:128 g:141 h:454 i:170 j:295 k:39 l:66 m:138 n:26 o:258 p:257 q:147 r:169 s:261 t:160 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:97 d:166 e:133 f:128 g:141 h:454 i:177 j:295 k:39 l:66 m:138 n:26 o:258 p:257 q:147 r:169 s:261 t:153 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:98 d:166 e:132 f:128 g:141 h:454 i:177 j:295 k:39 l:66 m:138 n:26 o:258 p:257 q:147 r:169 s:261 t:153 u:121 v:100 w:237 x:202 y:135 z:133 
+Apr 07, 2023 5:26:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:221 c:98 d:166 e:132 f:128 g:141 h:454 i:177 j:295 k:39 l:66 m:138 n:26 o:258 p:265 q:147 r:169 s:261 t:153 u:121 v:100 w:237 x:202 y:127 z:133 
+Apr 07, 2023 5:26:54 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:210 c:98 d:177 e:132 f:128 g:141 h:454 i:177 j:295 k:39 l:66 m:138 n:26 o:258 p:265 q:147 r:169 s:261 t:153 u:121 v:100 w:237 x:202 y:127 z:133 
+Apr 07, 2023 5:26:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:210 c:98 d:177 e:132 f:128 g:141 h:454 i:177 j:295 k:39 l:66 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:153 u:121 v:100 w:237 x:202 y:122 z:133 
+Apr 07, 2023 5:26:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:209 b:210 c:98 d:177 e:132 f:128 g:141 h:454 i:175 j:295 k:39 l:66 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:153 u:123 v:100 w:237 x:202 y:122 z:133 
+Apr 07, 2023 5:26:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:210 c:98 d:177 e:132 f:128 g:141 h:454 i:175 j:295 k:39 l:66 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:153 u:123 v:100 w:236 x:202 y:122 z:133 
+Apr 07, 2023 5:26:55 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:210 c:98 d:177 e:132 f:90 g:141 h:454 i:175 j:295 k:39 l:66 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:153 u:123 v:100 w:236 x:202 y:122 z:171 
+Apr 07, 2023 5:26:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:210 c:98 d:177 e:132 f:90 g:141 h:454 i:175 j:295 k:39 l:68 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:151 u:123 v:100 w:236 x:202 y:122 z:171 
+Apr 07, 2023 5:26:56 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:210 c:98 d:177 e:171 f:90 g:141 h:454 i:175 j:295 k:39 l:68 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:151 u:123 v:100 w:236 x:202 y:122 z:171 
+Apr 07, 2023 5:26:57 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:98 d:177 e:144 f:90 g:141 h:454 i:175 j:295 k:39 l:68 m:138 n:26 o:258 p:270 q:147 r:169 s:261 t:151 u:123 v:100 w:236 x:202 y:122 z:171 
+Apr 07, 2023 5:26:57 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:98 d:177 e:144 f:90 g:141 h:454 i:175 j:295 k:39 l:68 m:178 n:26 o:258 p:270 q:147 r:169 s:261 t:151 u:123 v:100 w:236 x:202 y:122 z:171 
+Apr 07, 2023 5:26:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:98 d:177 e:144 f:90 g:141 h:454 i:175 j:295 k:43 l:68 m:178 n:26 o:258 p:270 q:147 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:122 z:171 
+Apr 07, 2023 5:26:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:98 d:177 e:144 f:90 g:141 h:454 i:175 j:295 k:43 l:68 m:178 n:26 o:258 p:270 q:147 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:188 z:171 
+Apr 07, 2023 5:26:58 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:94 d:177 e:144 f:90 g:141 h:454 i:175 j:295 k:43 l:68 m:178 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:188 z:171 
+Apr 07, 2023 5:26:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:94 d:177 e:144 f:90 g:141 h:454 i:175 j:290 k:48 l:68 m:178 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:188 z:171 
+Apr 07, 2023 5:26:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:94 d:177 e:144 f:90 g:141 h:455 i:175 j:290 k:48 l:68 m:178 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:188 z:170 
+Apr 07, 2023 5:26:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:94 d:177 e:137 f:90 g:141 h:455 i:175 j:290 k:48 l:68 m:185 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:188 z:170 
+Apr 07, 2023 5:26:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:94 d:177 e:137 f:110 g:141 h:455 i:175 j:290 k:48 l:68 m:185 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:26:59 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:237 c:94 d:177 e:137 f:110 g:141 h:455 i:175 j:290 k:48 l:68 m:236 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:123 v:100 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:166 c:94 d:177 e:137 f:110 g:141 h:455 i:175 j:290 k:48 l:68 m:236 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:194 v:100 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:174 c:94 d:177 e:137 f:110 g:141 h:455 i:175 j:290 k:48 l:68 m:236 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:194 v:92 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:00 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:290 k:48 l:68 m:236 n:26 o:258 p:270 q:151 r:165 s:261 t:151 u:194 v:92 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:01 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:290 k:48 l:68 m:219 n:26 o:275 p:270 q:151 r:165 s:261 t:151 u:194 v:92 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:288 k:48 l:68 m:219 n:26 o:275 p:270 q:153 r:165 s:261 t:151 u:194 v:92 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:291 k:48 l:68 m:219 n:26 o:275 p:270 q:153 r:162 s:261 t:151 u:194 v:92 w:236 x:202 y:168 z:170 
+Apr 07, 2023 5:27:02 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:291 k:48 l:68 m:219 n:26 o:275 p:270 q:124 r:162 s:261 t:151 u:194 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:291 k:48 l:68 m:311 n:26 o:275 p:270 q:124 r:162 s:261 t:151 u:194 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:03 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:94 d:177 e:136 f:110 g:141 h:455 i:175 j:291 k:48 l:68 m:311 n:26 o:275 p:270 q:124 r:162 s:261 t:151 u:206 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:110 g:141 h:455 i:175 j:291 k:48 l:68 m:311 n:26 o:275 p:270 q:124 r:162 s:209 t:151 u:206 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:141 h:455 i:175 j:290 k:48 l:68 m:311 n:26 o:275 p:270 q:124 r:162 s:209 t:151 u:206 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:141 h:318 i:175 j:290 k:48 l:68 m:311 n:26 o:275 p:407 q:124 r:162 s:209 t:151 u:206 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:141 h:318 i:175 j:290 k:48 l:68 m:311 n:26 o:275 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:236 x:202 y:197 z:170 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:141 h:318 i:175 j:290 k:48 l:68 m:311 n:26 o:231 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:236 x:202 y:197 z:214 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:174 h:318 i:175 j:290 k:48 l:68 m:311 n:26 o:231 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:214 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:174 h:318 i:85 j:290 k:48 l:68 m:311 n:26 o:231 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:304 
+Apr 07, 2023 5:27:04 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:111 g:174 h:318 i:85 j:290 k:48 l:136 m:311 n:26 o:231 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:304 
+Apr 07, 2023 5:27:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:175 c:146 d:177 e:136 f:113 g:174 h:318 i:83 j:290 k:48 l:136 m:311 n:26 o:231 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:304 
+Apr 07, 2023 5:27:05 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:146 d:177 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:231 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:304 
+Apr 07, 2023 5:27:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:146 d:181 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:304 
+Apr 07, 2023 5:27:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:146 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:124 r:162 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:304 
+Apr 07, 2023 5:27:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:146 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:124 r:192 s:252 t:151 u:206 v:92 w:203 x:202 y:197 z:274 
+Apr 07, 2023 5:27:06 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:146 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:139 r:192 s:252 t:151 u:191 v:92 w:203 x:202 y:197 z:274 
+Apr 07, 2023 5:27:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:176 c:146 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:139 r:192 s:252 t:151 u:191 v:92 w:202 x:202 y:197 z:274 
+Apr 07, 2023 5:27:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:176 c:146 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:139 r:231 s:252 t:151 u:191 v:92 w:202 x:163 y:197 z:274 
+Apr 07, 2023 5:27:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:146 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:139 r:231 s:252 t:151 u:191 v:92 w:202 x:163 y:197 z:275 
+Apr 07, 2023 5:27:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:153 d:188 e:136 f:113 g:174 h:318 i:83 j:290 k:50 l:136 m:311 n:26 o:227 p:407 q:139 r:231 s:252 t:151 u:191 v:92 w:202 x:163 y:190 z:275 
+Apr 07, 2023 5:27:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:153 d:188 e:136 f:113 g:175 h:318 i:83 j:289 k:50 l:136 m:311 n:26 o:227 p:407 q:139 r:231 s:252 t:151 u:191 v:92 w:202 x:163 y:190 z:275 
+Apr 07, 2023 5:27:07 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:153 d:188 e:136 f:113 g:175 h:318 i:83 j:289 k:50 l:136 m:311 n:26 o:294 p:407 q:139 r:231 s:252 t:84 u:191 v:92 w:202 x:163 y:190 z:275 
+Apr 07, 2023 5:27:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:153 d:188 e:136 f:113 g:175 h:318 i:83 j:289 k:50 l:136 m:311 n:26 o:294 p:407 q:142 r:231 s:252 t:84 u:191 v:89 w:202 x:163 y:190 z:275 
+Apr 07, 2023 5:27:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:153 d:188 e:136 f:113 g:175 h:318 i:83 j:291 k:50 l:136 m:311 n:26 o:294 p:407 q:142 r:231 s:252 t:84 u:191 v:89 w:202 x:163 y:190 z:273 
+Apr 07, 2023 5:27:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:318 i:83 j:291 k:50 l:136 m:311 n:26 o:294 p:407 q:139 r:231 s:252 t:84 u:191 v:89 w:202 x:163 y:190 z:273 
+Apr 07, 2023 5:27:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:318 i:83 j:291 k:50 l:136 m:311 n:26 o:294 p:407 q:139 r:279 s:252 t:84 u:191 v:89 w:202 x:163 y:142 z:273 
+Apr 07, 2023 5:27:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:318 i:83 j:291 k:50 l:136 m:311 n:26 o:294 p:407 q:139 r:279 s:252 t:84 u:189 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:08 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:318 i:83 j:291 k:42 l:136 m:311 n:26 o:294 p:407 q:139 r:279 s:252 t:84 u:197 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:318 i:80 j:294 k:42 l:136 m:311 n:26 o:294 p:407 q:139 r:279 s:252 t:84 u:197 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:09 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:318 i:80 j:294 k:42 l:136 m:311 n:26 o:294 p:407 q:139 r:313 s:252 t:84 u:197 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:407 q:139 r:313 s:252 t:84 u:197 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:175 c:156 d:188 e:136 f:113 g:175 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:313 s:252 t:84 u:197 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:10 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:113 g:175 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:313 s:252 t:84 u:197 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:11 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:113 g:175 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:313 s:252 t:84 u:275 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:11 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:100 g:175 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:326 s:252 t:84 u:275 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:100 g:183 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:326 s:252 t:84 u:267 v:89 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:12 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:100 g:183 h:292 i:80 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:332 s:252 t:84 u:267 v:83 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:100 g:183 h:292 i:127 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:332 s:252 t:84 u:267 v:83 w:202 x:163 y:144 z:273 
+Apr 07, 2023 5:27:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:100 g:183 h:292 i:127 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:332 s:252 t:82 u:267 v:83 w:204 x:163 y:144 z:273 
+Apr 07, 2023 5:27:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:100 g:183 h:292 i:127 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:332 s:252 t:82 u:267 v:83 w:256 x:163 y:144 z:273 
+Apr 07, 2023 5:27:13 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:102 g:183 h:292 i:127 j:294 k:42 l:136 m:337 n:26 o:294 p:409 q:139 r:330 s:252 t:82 u:267 v:83 w:256 x:163 y:144 z:273 
+Apr 07, 2023 5:27:14 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:156 d:186 e:136 f:102 g:183 h:292 i:127 j:294 k:70 l:136 m:337 n:26 o:294 p:409 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:273 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:163 d:186 e:136 f:95 g:183 h:292 i:127 j:294 k:70 l:136 m:337 n:26 o:294 p:409 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:273 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:163 d:179 e:136 f:95 g:183 h:292 i:127 j:294 k:70 l:136 m:344 n:26 o:294 p:409 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:273 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:208 b:177 c:163 d:179 e:136 f:95 g:183 h:285 i:127 j:294 k:70 l:136 m:344 n:26 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:273 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:177 c:163 d:179 e:136 f:95 g:183 h:285 i:127 j:294 k:70 l:136 m:344 n:26 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:271 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:163 d:179 e:136 f:95 g:183 h:285 i:127 j:327 k:70 l:136 m:344 n:26 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:271 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:159 d:179 e:136 f:95 g:183 h:285 i:127 j:327 k:70 l:136 m:344 n:30 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:271 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:159 d:179 e:136 f:95 g:183 h:285 i:127 j:333 k:70 l:136 m:344 n:30 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:265 
+Apr 07, 2023 5:27:15 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:159 d:179 e:143 f:88 g:183 h:285 i:127 j:333 k:70 l:136 m:344 n:30 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:144 z:265 
+Apr 07, 2023 5:27:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:159 d:179 e:143 f:88 g:183 h:289 i:127 j:333 k:70 l:136 m:344 n:30 o:294 p:416 q:139 r:330 s:252 t:82 u:239 v:83 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:159 d:179 e:143 f:88 g:183 h:289 i:127 j:333 k:70 l:136 m:344 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:239 v:83 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:158 d:179 e:143 f:88 g:183 h:289 i:128 j:333 k:70 l:136 m:344 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:239 v:83 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:16 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:144 c:158 d:179 e:143 f:88 g:183 h:289 i:128 j:333 k:70 l:136 m:344 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:239 v:169 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:222 c:158 d:179 e:143 f:88 g:183 h:289 i:128 j:333 k:70 l:136 m:344 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:239 v:169 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:222 c:158 d:179 e:143 f:88 g:183 h:289 i:128 j:260 k:70 l:136 m:417 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:239 v:169 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:222 c:158 d:179 e:143 f:88 g:183 h:289 i:128 j:260 k:82 l:136 m:417 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:227 v:169 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:222 c:158 d:181 e:143 f:86 g:183 h:289 i:128 j:260 k:82 l:136 m:417 n:67 o:294 p:416 q:139 r:330 s:215 t:82 u:227 v:169 w:256 x:163 y:140 z:265 
+Apr 07, 2023 5:27:17 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:210 b:222 c:158 d:181 e:143 f:86 g:183 h:289 i:128 j:260 k:82 l:136 m:417 n:67 o:294 p:416 q:139 r:330 s:215 t:84 u:227 v:169 w:256 x:161 y:140 z:265 
+Apr 07, 2023 5:27:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:199 b:222 c:158 d:181 e:143 f:86 g:183 h:289 i:139 j:260 k:82 l:136 m:417 n:67 o:294 p:416 q:139 r:330 s:215 t:84 u:227 v:169 w:256 x:161 y:140 z:265 
+Apr 07, 2023 5:27:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:145 b:222 c:212 d:181 e:143 f:86 g:183 h:289 i:139 j:260 k:82 l:136 m:417 n:67 o:294 p:416 q:139 r:330 s:215 t:84 u:227 v:169 w:256 x:161 y:140 z:265 
+Apr 07, 2023 5:27:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:145 b:222 c:228 d:181 e:143 f:86 g:183 h:289 i:139 j:260 k:82 l:136 m:417 n:67 o:294 p:416 q:139 r:314 s:215 t:84 u:227 v:169 w:256 x:161 y:140 z:265 
+Apr 07, 2023 5:27:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:145 b:222 c:228 d:181 e:143 f:86 g:183 h:289 i:139 j:260 k:82 l:137 m:417 n:67 o:294 p:416 q:139 r:314 s:215 t:84 u:226 v:169 w:256 x:161 y:140 z:265 
+Apr 07, 2023 5:27:19 PM ServerThread receiveDeliverableMessageHandler
+INFO: BALANCES a:145 b:222 c:228 d:181 e:143 f:86 g:183 h:289 i:150 j:260 k:82 l:126 m:417 n:67 o:294 p:416 q:139 r:314 s:215 t:84 u:226 v:169 w:256 x:161 y:140 z:265 
