@@ -2,24 +2,24 @@
 
 *3 nodes, 0.5 Hz each, running for 100 seconds*
 
-![one](./evaluation diagram/one.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/one.png)
 
-![two](./evaluation diagram/two.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/two.png)
 
 *8 nodes, 5 Hz each, running for 100 seconds*
 
-![three](./evaluation diagram/three.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/three.png)
 
-![four](./evaluation diagram/four.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/four.png)
 
 *3 nodes, 0.5 Hz each, running for 100 seconds, then one node fails, and the rest continue to run for 100 seconds*
 
-![five](./evaluation diagram/five.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/five.png)
 
-![six](./evaluation diagram/six.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/six.png)
 
 *8 nodes, 5 Hz each, running for 100 seconds, then 3 nodes fail simultaneously, and the rest continue to run for 100 seconds.*
 
-![seven](./evaluation diagram/seven.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/seven.png)
 
-![eight](./evaluation diagram/eight.png)
+![](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/blob/main/evaluation%20diagram/eight.png)
