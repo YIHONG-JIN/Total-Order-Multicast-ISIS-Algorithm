@@ -46,7 +46,7 @@ Our program creates a thread called ServerThread, which acts as a server and res
 
 To ensure the total ordering of messages in our distributed system, we have implemented the ISIS algorithm using hold-back queues. The ISIS algorithm is a consensus algorithm that guarantees that all non-faulty nodes in a distributed system agree on the total order of messages, even in the presence of faulty nodes or network delays.
 
-![Screenshot 2023-04-05 at 8.56.33 PM](./img/Screenshot 2023-04-05 at 8.56.33 PM.png)
+[![Screenshot 2023-04-05 at 8.56.33 PM](./img/Screenshot 2023-04-05 at 8.56.33 PM.png)](https://github.com/YIHONG-JIN/Total-Order-Multicast-ISIS-Algorithm/tree/main/img)
 
 ![Screenshot 2023-04-05 at 8.56.58 PM](./img/Screenshot 2023-04-05 at 8.56.58 PM.png)
 
